@@ -1,0 +1,1 @@
+A simple practice exercise from Jon Duckett's "HTML & CSS" book. End of section exercise from the COLOR section. I decided to utilize HSL as opposed to RGB, in order to get some time to play around with it and gain a better understanding of it.
